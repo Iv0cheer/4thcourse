@@ -6,4 +6,6 @@
 </div>
 
 
-[LabWork_#2.1](4thcourse/blob/main/ЛР2.1_ЧеренковИР.pdf)
+<div align="center">
+  [LabWork_#2.1](4thcourse/blob/main/ЛР2.1_ЧеренковИР.pdf)
+</div>
