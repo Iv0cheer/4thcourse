@@ -7,5 +7,5 @@
 
 
 <div align="center">
-  [LabWork_#2.1](4thcourse/blob/main/ЛР2.1_ЧеренковИР.pdf)
+  <p><a href="https://github.com/Iv0cheer/4thcourse/blob/main/ЛР2.1_ЧеренковИР.pdf">Лабораторная работа №1</a></p>
 </div>
