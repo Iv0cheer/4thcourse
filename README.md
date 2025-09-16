@@ -12,18 +12,18 @@
 
 
 <thead>
-            <tr>
-                <th>Работа</th>
-                <th>Ссылка</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Название работы 1</td>
-                <td><a href="https://example.com/работа1" target="_blank">Перейти к работе 1</a></td>
-            </tr>
-            <tr>
-                <td>Название работы 2</td>
-                <td><a href="https://example.com/работа2" target="_blank">Перейти к работе 2</a></td>
-            </tr>
-        </tbody>
+    <tr>
+        <th>Работа</th>
+        <th>Ссылка</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Название работы 1</td>
+        <td><a href="https://example.com/работа1" target="_blank">Перейти к работе 1</a></td>
+    </tr>
+    <tr>
+        <td>Название работы 2</td>
+        <td><a href="https://example.com/работа2" target="_blank">Перейти к работе 2</a></td>
+    </tr>
+</tbody>
