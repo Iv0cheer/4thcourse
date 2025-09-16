@@ -6,11 +6,6 @@
 </div>
 
 
-<div align="center">
-  <p style="font-weight: bold;"><a href="https://github.com/Iv0cheer/4thcourse/blob/main/ЛР2.1_ЧеренковИР.pdf">Лабораторная работа №2.1</a></p>
-</div>
-
-
 | Работа | Ссылка |
 |--------|--------|
 | Лабораторная работа №2.1 | [Перейти к работе](/ЛР2.1_ЧеренковИР.pdf) |
