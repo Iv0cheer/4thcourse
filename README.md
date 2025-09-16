@@ -9,3 +9,21 @@
 <div align="center">
   <p style="font-weight: bold;"><a href="https://github.com/Iv0cheer/4thcourse/blob/main/ЛР2.1_ЧеренковИР.pdf">Лабораторная работа №2.1</a></p>
 </div>
+
+
+<thead>
+            <tr>
+                <th>Работа</th>
+                <th>Ссылка</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Название работы 1</td>
+                <td><a href="https://example.com/работа1" target="_blank">Перейти к работе 1</a></td>
+            </tr>
+            <tr>
+                <td>Название работы 2</td>
+                <td><a href="https://example.com/работа2" target="_blank">Перейти к работе 2</a></td>
+            </tr>
+        </tbody>
