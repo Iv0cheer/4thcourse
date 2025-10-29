@@ -71,3 +71,14 @@ generate_files_data()
 
 print("\n" + "="*50 + "\n")
 ```
+
+
+Unable to connect to server:
+
+connection failed: connection to server at "127.0.0.1", port 5432 failed: Connection refused
+Is the server running on that host and accepting TCP/IP connections?
+Multiple connection attempts failed. All failures were:
+- host: 'localhost', port: '5432', hostaddr: '::1': connection failed: connection to server at "::1", port 5432 failed: Connection refused
+Is the server running on that host and accepting TCP/IP connections?
+- host: 'localhost', port: '5432', hostaddr: '127.0.0.1': connection failed: connection to server at "127.0.0.1", port 5432 failed: Connection refused
+Is the server running on that host and accepting TCP/IP connections
