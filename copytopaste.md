@@ -72,6 +72,10 @@ generate_files_data()
 print("\n" + "="*50 + "\n")
 ```
 
+sudo lsof -i tcp:5432
+COMMAND      PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+docker-pr 158171 root    7u  IPv4 531005      0t0  TCP *:postgresql (LISTEN)
+docker-pr 158178 root    7u  IPv6 531006      0t0  TCP *:postgresql (LISTEN)
 
 Unable to connect to server:
 
