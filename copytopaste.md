@@ -100,7 +100,7 @@ Error: Database is uninitialized and superuser password is not specified.
        https://www.postgresql.org/docs/current/auth-trust.html
 
 
-
+```
 services:
   # MongoDB Service (версия 4.4 - стабильная)
   mongodb:
@@ -202,3 +202,4 @@ volumes:
 networks:
   db_network:
     driver: bridge
+```
