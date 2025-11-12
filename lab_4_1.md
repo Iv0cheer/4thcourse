@@ -218,3 +218,6 @@ plt.show()
 
 <img width="751" height="649" alt="image" src="https://github.com/user-attachments/assets/2e4ef898-443a-41aa-a3e9-3b6f2a2fe365" />
 
+
+## Вывод
+Таким образом, в результате проведенных экспериментов, механизм GridFS в MongoDB продемонстрировал более высокую производительность по сравнению с хранением в виде типа bytea в PostgreSQL
