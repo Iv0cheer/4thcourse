@@ -11,6 +11,7 @@
 ```
 
 Скриншот:
+
 <img width="787" height="358" alt="image" src="https://github.com/user-attachments/assets/0964ba44-b61e-4b1c-8243-67a1a0c0d5c4" />
 
 
@@ -86,6 +87,7 @@ if __name__ == "__main__":
 ```
 
 Скриншот выполнения:
+
 <img width="810" height="428" alt="image" src="https://github.com/user-attachments/assets/9f6034e1-c614-483e-acb4-5a22bf91e8e2" />
 
 
@@ -158,6 +160,7 @@ if __name__ == "__main__":
 ```
 
 Скриншот выполнения:
+
 <img width="778" height="281" alt="image" src="https://github.com/user-attachments/assets/13a90d32-28af-4fdb-9259-3f8d1a1c3d8a" />
 
 
@@ -190,6 +193,7 @@ if __name__ == "__main__":
 ```
 
 Результат выполнения:
+
 <img width="741" height="587" alt="image" src="https://github.com/user-attachments/assets/66259ae5-8918-4a32-814d-4d72731f2d1e" />
 
 
@@ -211,5 +215,6 @@ plt.show()
 ```
 
 Результат выполнения:
+
 <img width="751" height="649" alt="image" src="https://github.com/user-attachments/assets/2e4ef898-443a-41aa-a3e9-3b6f2a2fe365" />
 
